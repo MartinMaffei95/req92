@@ -85,4 +85,10 @@ Para conversaciones de mensajes de Instagram entre las personas y la cuenta prof
 - Los permisos `instagram_basic`, `instagram_manage_messages` y `pages_manage_metadata`
 - Tu app debe ser propiedad de un negocio verificado
 
+Nuestro servicio necesitara tambien:
+
+- **Acceso avanzado** para poder obtener informacion de paginas de personas que NO dispongan de un rol (desarrollo, testing o propiedad) en la app.
+- **Business Verification**: Es requqerido para poder obtener el acceso avanzado.
+- **APP revisada**: Probablemente debamos someter a revision nuestra app para poder acceder a los servicios de mensajeria en nombre de terceros
+
 #

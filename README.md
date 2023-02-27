@@ -19,9 +19,9 @@ Para crear este login en nuestro sitio necesitamos:
 
 El [Registro insertado](https://developers.facebook.com/docs/whatsapp/embedded-signup) es una forma con la que cuentan los proveedores de soluciones comerciales (BSP) que permitir incorporar empresas a la Plataforma de WhatsApp Business directamente desde sus sitios web.
 
-> Paso a paso del registro insertado en <a href="https://www.youtube.com/watch?v=ebjs9xBp8kE&ab_channel=WhatsApp">SleekFlow</a>
+> Paso a paso del registro insertado en <a href="https://youtu.be/w0fyl-R5yCU">SleekFlow</a>
 
-> Como ven los usuarios el <a href="https://youtu.be/w0fyl-R5yCU">Registro insertado</a>
+> Como ven los usuarios el <a href="https://www.youtube.com/watch?v=ebjs9xBp8kE&ab_channel=WhatsApp">Registro insertado</a>
 
 Usando este modo de registro los negocios tienen sus propia WhatsApp Business Account (WABA) y comparten el acceso de estas directamente con nosotros permitiendo que los negocios administren su WABA y nos liberen de responsabilidad.
 
